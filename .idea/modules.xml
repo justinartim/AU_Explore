@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AUExplore.iml" filepath="$PROJECT_DIR$/AUExplore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auexplore/auexplore.iml" filepath="$PROJECT_DIR$/auexplore/auexplore.iml" />
+    </modules>
+  </component>
+</project>
+
